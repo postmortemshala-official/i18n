@@ -14,8 +14,8 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "Online Court",
-  description: "Blox System",
+  title: "Postmortemshala",
+  description: "Postmortemshala i18n",
 };
 
 export default function RootLayout({
